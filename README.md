@@ -2,7 +2,7 @@
 Meowscarada's rig for blender 4.2
 
 # Recommended Addons:
-- Bone Manager
+- Bone Manager(link:https://fin.gumroad.com/l/STdb)
 
 ## Capturas de Pantalla
 
@@ -12,4 +12,5 @@ Meowscarada's rig for blender 4.2
 
 https://github.com/user-attachments/assets/c23166f4-828f-41d7-a551-3d37a8afaf31
 
+![image](https://github.com/user-attachments/assets/a7368023-8126-424e-b6bc-5e9421076e8d)
 
